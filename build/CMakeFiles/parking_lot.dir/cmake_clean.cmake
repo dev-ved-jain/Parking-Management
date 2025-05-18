@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/parking_lot.dir/Gates/entrance_gate.cpp.obj"
+  "CMakeFiles/parking_lot.dir/Gates/entrance_gate.cpp.obj.d"
+  "CMakeFiles/parking_lot.dir/Gates/exit_gate.cpp.obj"
+  "CMakeFiles/parking_lot.dir/Gates/exit_gate.cpp.obj.d"
+  "CMakeFiles/parking_lot.dir/Parking/bike_parking_spot.cpp.obj"
+  "CMakeFiles/parking_lot.dir/Parking/bike_parking_spot.cpp.obj.d"
+  "CMakeFiles/parking_lot.dir/Parking/car_parking_spot.cpp.obj"
+  "CMakeFiles/parking_lot.dir/Parking/car_parking_spot.cpp.obj.d"
+  "CMakeFiles/parking_lot.dir/Parking/parking_floor.cpp.obj"
+  "CMakeFiles/parking_lot.dir/Parking/parking_floor.cpp.obj.d"
+  "CMakeFiles/parking_lot.dir/Parking/parking_service.cpp.obj"
+  "CMakeFiles/parking_lot.dir/Parking/parking_service.cpp.obj.d"
+  "CMakeFiles/parking_lot.dir/Parking/parking_spot.cpp.obj"
+  "CMakeFiles/parking_lot.dir/Parking/parking_spot.cpp.obj.d"
+  "CMakeFiles/parking_lot.dir/Payment/credit_card_payment.cpp.obj"
+  "CMakeFiles/parking_lot.dir/Payment/credit_card_payment.cpp.obj.d"
+  "CMakeFiles/parking_lot.dir/Payment/payment_service.cpp.obj"
+  "CMakeFiles/parking_lot.dir/Payment/payment_service.cpp.obj.d"
+  "CMakeFiles/parking_lot.dir/Payment/upi_payment.cpp.obj"
+  "CMakeFiles/parking_lot.dir/Payment/upi_payment.cpp.obj.d"
+  "CMakeFiles/parking_lot.dir/Ticket/ticket.cpp.obj"
+  "CMakeFiles/parking_lot.dir/Ticket/ticket.cpp.obj.d"
+  "CMakeFiles/parking_lot.dir/Vehicles/bike.cpp.obj"
+  "CMakeFiles/parking_lot.dir/Vehicles/bike.cpp.obj.d"
+  "CMakeFiles/parking_lot.dir/Vehicles/car.cpp.obj"
+  "CMakeFiles/parking_lot.dir/Vehicles/car.cpp.obj.d"
+  "CMakeFiles/parking_lot.dir/Vehicles/vehicle.cpp.obj"
+  "CMakeFiles/parking_lot.dir/Vehicles/vehicle.cpp.obj.d"
+  "CMakeFiles/parking_lot.dir/Vehicles/vehicle_factory.cpp.obj"
+  "CMakeFiles/parking_lot.dir/Vehicles/vehicle_factory.cpp.obj.d"
+  "CMakeFiles/parking_lot.dir/demo.cpp.obj"
+  "CMakeFiles/parking_lot.dir/demo.cpp.obj.d"
+  "libparking_lot.dll.a"
+  "parking_lot.exe"
+  "parking_lot.exe.manifest"
+  "parking_lot.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/parking_lot.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
